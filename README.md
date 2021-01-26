@@ -1,4 +1,4 @@
-- 💬 I’m currently working on a video series to build your own 3D printer board on a breadboard.
+💬 I’m currently working on a video series to build your own 3D printer board on a breadboard.
 
 <!--
 Here are some ideas to get you started:
