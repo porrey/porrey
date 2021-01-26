@@ -1,11 +1,8 @@
-![Daniel Porrey](https://github.com/porrey/porrey/raw/main/MySocialPhotoCircle.png)
+- 🔭 I’m currently working on a video series to build your own 3D printer board on a breadboard.
 
 <!--
-**porrey/porrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+**porrey/porrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
