@@ -1,4 +1,4 @@
-💬 I’m currently working on a video series to build your own 3D printer board on a breadboard.
+💬 I am currently working on a video series to build your own 3D printer board on a breadboard. A lot of planning and detailed work is going into this project with the hopes that it will get you more comfortable with your 3D printer and with the possibility of performing upgrades beyond some of the typical additions. The first few videos should be completed soon.
 
 https://github.com/3DP-Tech/3D-Printer-Board
 
