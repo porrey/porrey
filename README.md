@@ -1,9 +1,5 @@
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=porrey&show_icons=true)
 
-💬 I am currently working on a video series to build your own 3D printer board on a breadboard. A lot of planning and detailed work is going into this project with the hopes that it will get you more comfortable with your 3D printer and with the possibility of performing upgrades beyond some of the typical additions. The first few videos should be completed soon.
-
-https://github.com/3DP-Tech/3D-Printer-Board
-
 <!--
 Here are some ideas to get you started:
 **porrey/porrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
